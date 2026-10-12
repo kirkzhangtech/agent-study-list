@@ -78,4 +78,4 @@ H. 安全与失效
 I. 其他热点
 [Self-RAG](https://arxiv.org/abs/2310.11511) — 走向 agentic RAG
 
-Deep Research 类长程调研 agent、MCP 等工具协议（系统侧前沿）
+Deep Research 类长程调研 agent、MCP 等工具协议（系统侧前沿
